@@ -5,3 +5,6 @@ Specify the data set inside the header variables in assignment.py. Run assingmen
 
 # Data Sets 3
 Specify the header variables in assignment_float.py. Run assignment_float.py with Python 3.
+
+# Output
+Output is provided on screen and in a csv file in the project directory.
